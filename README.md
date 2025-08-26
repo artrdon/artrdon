@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm artrdon!
 
-<!--
-**artrdon/artrdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an explorer in Machine Learning, transitioning from a solid background as a web programmer. I love Python, Django, React, and all things JavaScript. Now, I'm diving deep into ML—looking to break boundaries and make something that fucking out.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, React
+- **Interests:** Machine Learning, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mission
+Make something that fucking out. 🚀
+
+---
+
+Want to connect or collaborate? Just drop a message here on GitHub!
