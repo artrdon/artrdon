@@ -14,3 +14,5 @@ Make something that fucking out. 🚀
 ---
 
 Want to connect or collaborate? Just drop a message here on GitHub!
+
+мэйд бай эйай, фор фан онли
