@@ -16,3 +16,6 @@ Make something that fucking out. 🚀
 Want to connect or collaborate? Just drop a message here on GitHub!
 
 мэйд бай эйай, фор фан онли
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artrdon)](https://git.io/streak-stats)
