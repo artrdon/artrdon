@@ -21,7 +21,7 @@ Want to connect or collaborate? Just drop a message here on GitHub!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=artrdon)](https://git.io/streak-stats)
 
 
-[![artrdon's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=artrdon&theme=dark)](https://github.com/artrdon/leetcode-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/artrdon)](https://leetcode.com/artrdon)
 
 
 ![](https://komarev.com/ghpvc/?username=artrdon)
