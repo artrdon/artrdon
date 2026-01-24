@@ -70,7 +70,13 @@
 ###
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=artrdon)](https://git.io/streak-stats)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=artrdon" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ## Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/artrdon)](https://leetcode.com/artrdon)
