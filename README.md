@@ -6,6 +6,22 @@
 <p align="center">17-летний разработчик и ML-инженер из России (скоро 18).</p>
 <p align="center">Занимаюсь машинным обучением, алгоритмической торговлей и бекенд разработкой.</p>
 
+###
+
+<div align="center">
+  <a href="https://t.me/Denchik_ai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=artrdon)
+</div>
+
+###
+
 ### Что я умею и делал
 - **Машинное обучение**  
   PyTorch • LSTM • CNN • эксперименты с предсказанием финансовых рядов  
@@ -60,6 +76,3 @@
 
 ## Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/artrdon)](https://leetcode.com/artrdon)
-
-
-![](https://komarev.com/ghpvc/?username=artrdon)
