@@ -1,12 +1,56 @@
-# 👋 Hi, I'm artrdon!
+## Привет! Я Денис 👋
 
-## 🚀 About Me
-I'm an explorer in Machine Learning, transitioning from a solid background as a web programmer. I love Python, Django, React, and all things JavaScript. Now, I'm diving deep into ML—looking to break boundaries and make something that fucking out.
+17-летний разработчик и ML-инженер из России (скоро 18).  
+Занимаюсь машинным обучением, алгоритмической торговлей и backend-разработкой.
 
-## 🛠️ Skills
-- **Languages:** Python, JavaScript, MQL4, MQL5
-- **Frameworks:** Django, React
-- **Interests:** Machine Learning, Web Development, Quantitative Finance
+### Что я умею и делал
+- **Машинное обучение**  
+  PyTorch • LSTM • CNN • эксперименты с предсказанием финансовых рядов  
+  Знаком с backpropagation, оптимизацией, feature engineering  
+  Пробовал применять нейросети к трейдингу (золото, нефть, валюты)
+
+- **Квант / Трейдинг**  
+  Создавал советники и кастомные индикаторы на MQL4/MQL5
+  Реализовывал GARCH-модели, Monte-Carlo симуляции, Стохастическое моделирование
+  Понимаю уровни поддержки/сопротивления, риск-менеджмент, психологию трейдера  
+
+- **Backend & Full-stack**  
+  Разработал с нуля EdTech-платформу (6 месяцев активной разработки):  
+  • Django + PostgreSQL  
+  • Аутентификация (в т.ч. через сторонние сервисы)  
+  • Интеграция большой языковой модели (LLM)  
+  • Деплой на сервер
+
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=artrdon)](https://git.io/streak-stats)
