@@ -15,10 +15,11 @@
 </div>
 
 ###
-
-  ![](https://komarev.com/ghpvc/?username=artrdon)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=artrdon" height="220" alt="streak graph"  />
+</div>
 ###
+
 ---
 ### Что я умею и делал
 - **Машинное обучение**  
@@ -38,7 +39,7 @@
   - Интеграция большой языковой модели (LLM)  
   - Деплой на сервер
 
-
+--
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
@@ -71,12 +72,16 @@
 
 ## GitHub Streak
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=artrdon" height="220" alt="streak graph"  />
 </div>
-
 ###
 
 ## Leetcode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/artrdon)](https://leetcode.com/artrdon)
+###
+<div align="center">
+  <a href="https://leetcode.com/artrdon" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/artrdon" height="220" alt="streak graph"  />
+  </a>
+</div>
+###
