@@ -1,12 +1,9 @@
-###
 
 <h1 align="center">Привет! Я Денис 👋</h1>
 
-###
 <p align="center">17-летний разработчик и ML-инженер из России (скоро 18).</p>
 <p align="center">Занимаюсь машинным обучением, алгоритмической торговлей и бекенд разработкой.</p>
 
-###
 
 <div align="center">
   <a href="https://t.me/Denchik_ai" target="_blank">
@@ -14,11 +11,9 @@
   </a>
 </div>
 
-###
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=artrdon" height="220" alt="streak graph"  />
 </div>
-###
 
 ---
 ### Что я умею и делал
@@ -41,8 +36,6 @@
 
 --
 <h3 align="left">🛠 Технологии:</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -68,20 +61,15 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-###
 
 ## GitHub Streak
-###
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=artrdon" height="220" alt="streak graph"  />
 </div>
-###
 
 ## Leetcode
-###
 <div align="center">
   <a href="https://leetcode.com/artrdon" target="_blank">
     <img src="https://leetcard.jacoblin.cool/artrdon" height="220" alt="streak graph"  />
   </a>
 </div>
-###
