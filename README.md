@@ -19,3 +19,6 @@ Want to connect or collaborate? Just drop a message here on GitHub!
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=artrdon)](https://git.io/streak-stats)
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=artrdon&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
