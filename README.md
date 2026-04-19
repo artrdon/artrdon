@@ -1,91 +1,92 @@
-
-
-<h1 align="center">Привет! Я Денис 👋</h1>
-
-<p align="center">Занимаюсь машинным обучением, алгоритмической торговлей и бекенд разработкой.</p>
-
+<h1 align="center">Hi, I'm Denis 👋</h1>
+<p align="center">I work with machine learning, algorithmic trading, and backend development.</p>
 
 <div align="center">
   <a href="https://t.me/Denchik_ai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=artrdon" height="220" alt="streak graph"  />
+  <img src="https://komarev.com/ghpvc/?username=artrdon" height="220" alt="profile views" />
 </div>
 
 ---
-### Что я умею и делал
-- **Машинное обучение(В приватных рипозиториях)**  
-  - PyTorch, LSTM, CNN - эксперименты с предсказанием финансовых рядов  
-  - Знаком с backpropagation, оптимизацией, feature engineering  
-  - Пробовал применять нейросети к трейдингу (золото, нефть, валюты)
 
-- **Квант / Трейдинг**  
-  - Создавал советники и кастомные индикаторы на MQL4/MQL5
-  - Реализовывал GARCH-модели, Monte-Carlo симуляции, Стохастическое моделирование
-  - Понимаю уровни поддержки/сопротивления, риск-менеджмент, психологию трейдера  
+### 👑 Founder & CEO
 
-- **Backend & Full-stack**  
-  Разработал с нуля EdTech-платформу (5 месяцев активной разработки):  
-  - Django + PostgreSQL  
-  - Аутентификация (в т.ч. через сторонние сервисы)  
-  - Интеграция большой языковой модели (LLM)  
-  - Деплой на сервер
+**Founder and CEO of DQuant** — an open-source project focused on automated volatility forecasting for financial markets.
 
+---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+### What I do
 
+**Machine Learning** (mostly in private repositories)
+- PyTorch, LSTM, CNN — experiments with financial time series prediction
+- Backpropagation, model optimization, feature engineering
+- Applied neural networks to trading (gold, oil, forex)
 
-## 🛠 Технологии:
+**Quant & Algorithmic Trading**
+- Developed trading advisors (EAs) and custom indicators on **MQL4/MQL5**
+- Implemented GARCH models, Monte-Carlo simulations, and stochastic modeling
+- Deep understanding of support/resistance levels, risk management, and trader psychology
+
+**Backend & Full-Stack**
+- Built a complete **EdTech platform (DayLang)** from scratch in 5 months
+  - Django + PostgreSQL backend
+  - Authentication (including third-party services)
+  - LLM integration
+  - Server deployment
+
+---
+
+## 🛠 Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mql5/mql5-original.svg" height="40" alt="mql5 logo" />
 </div>
 
+---
 
-## GitHub 
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
+  />
+  <img 
+    alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
+  />
+</picture>
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=artrdon" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=artrdon" height="220" alt="streak graph" />
 </div>
 
-## Leetcode
+## LeetCode
+
 <div align="center">
-  <a href="https://leetcode.com/artrdon" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/artrdon" height="220" alt="streak graph"  />
+  <a href="https://leetcode.com/u/artrdon" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/artrdon" height="220" alt="leetcode card" />
   </a>
 </div>
