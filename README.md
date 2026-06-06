@@ -21,7 +21,7 @@
 
 ### What I do
 
-**Machine Learning** (mostly in private repositories)
+**Machine Learning**
 - PyTorch, LSTM, CNN — experiments with financial time series prediction
 - Backpropagation, model optimization, feature engineering
 - Applied neural networks to trading (gold, oil, forex)
