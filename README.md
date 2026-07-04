@@ -10,8 +10,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=artrdon" height="220" alt="profile views" />
 </div>
+
+
 ---
+
+
 [<image-card alt="My GitFut card" src="https://gitfut.com/artrdon.png" ></image-card>](https://gitfut.com/artrdon)
+
+
 ---
 
 ### 👑 Founder & CEO
