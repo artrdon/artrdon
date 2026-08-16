@@ -5,7 +5,6 @@
 I work at the intersection of quantitative finance, machine learning, financial time series, and software engineering.
 
 ## My focus includes:
-
 ### Quantitative research & financial econometrics
 - ML for financial time series
 - Volatility forecasting
@@ -13,18 +12,14 @@ I work at the intersection of quantitative finance, machine learning, financial 
 - Backend & production ML systems
 - Projects
 
-## DQuant Founder & Lead Developer
-
+### DQuant Founder & Lead Developer
 Open-source quantitative finance platform focused on automated volatility forecasting and model benchmarking.
-
 https://dquant.space
 
-## Research
-
+### Research
 My research focuses on comparing econometric and machine-learning approaches to financial forecasting.
 
-## Areas of interest:
-
+### Areas of interest:
 - GARCH-family models
 - Machine learning
 - Volatility forecasting
@@ -34,7 +29,7 @@ My research focuses on comparing econometric and machine-learning approaches to 
 - Walk-forward / out-of-sample evaluation
 
 I aim to combine research, engineering, and reproducible benchmarking to build practical quantitative tools.
----
+
 
 ## 🛠 Technologies
 
