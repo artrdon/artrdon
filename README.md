@@ -1,50 +1,39 @@
-<h1 align="center">Hi, I'm Denis 👋</h1>
-<p align="center">I work with machine learning, algorithmic trading, and backend development.</p>
+# Denis Makarov
 
-<div align="center">
-  <a href="https://t.me/Denchik_ai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
-</div>
+## Quantitative Researcher · ML Engineer · Backend Developer · Founder
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=artrdon" height="220" alt="profile views" />
-</div>
+I work at the intersection of quantitative finance, machine learning, financial time series, and software engineering.
 
+## My focus includes:
 
----
+### Quantitative research & financial econometrics
+- ML for financial time series
+- Volatility forecasting
+- Statistical model comparison
+- Backend & production ML systems
+- Projects
 
+## DQuant Founder & Lead Developer
 
-[<image-card alt="My GitFut card" src="https://gitfut.com/artrdon.png" ></image-card>](https://gitfut.com/artrdon)
+Open-source quantitative finance platform focused on automated volatility forecasting and model benchmarking.
 
+https://dquant.space
 
----
+## Research
 
-### 👑 Founder & CEO
+My research focuses on comparing econometric and machine-learning approaches to financial forecasting.
 
-**Founder and CEO of DQuant** — an open-source project focused on automated volatility forecasting for financial markets.
+## Areas of interest:
 
----
+- GARCH-family models
+- Machine learning
+- Volatility forecasting
+- Monte Carlo methods
+- Time-series analysis
+- Statistical testing
+- Walk-forward / out-of-sample evaluation
 
-### What I do
-
-**Machine Learning**
-- PyTorch, LSTM, CNN — experiments with financial time series prediction
-- Backpropagation, model optimization, feature engineering
-- Applied neural networks to trading (gold, oil, forex)
-
-**Quant & Algorithmic Trading**
-- Developed trading advisors (EAs) and custom indicators on **MQL4/MQL5**
-- Implemented GARCH models, Monte-Carlo simulations, and stochastic modeling
-- Deep understanding of support/resistance levels, risk management, and trader psychology
-
-**Backend & Full-Stack**
-- Built a complete **EdTech platform (DayLang)** from scratch in 5 months
-  - Django + PostgreSQL backend
-  - Authentication (including third-party services)
-  - LLM integration
-  - Server deployment
-
+I aim to combine research, engineering, and reproducible benchmarking to build practical quantitative tools.
 ---
 
 ## 🛠 Technologies
